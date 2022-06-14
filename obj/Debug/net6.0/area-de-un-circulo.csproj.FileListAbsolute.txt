@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\bin\Debug\net6.0\area-de-un-circulo.exe
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\bin\Debug\net6.0\area-de-un-circulo.deps.json
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\bin\Debug\net6.0\area-de-un-circulo.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\bin\Debug\net6.0\area-de-un-circulo.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\bin\Debug\net6.0\area-de-un-circulo.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\obj\Debug\net6.0\area-de-un-circulo.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\obj\Debug\net6.0\area-de-un-circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\obj\Debug\net6.0\area-de-un-circulo.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\obj\Debug\net6.0\area-de-un-circulo.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\obj\Debug\net6.0\area-de-un-circulo.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\obj\Debug\net6.0\area-de-un-circulo.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\obj\Debug\net6.0\refint\area-de-un-circulo.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\obj\Debug\net6.0\area-de-un-circulo.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\obj\Debug\net6.0\area-de-un-circulo.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un circulo en C#\area-de-un-circulo\obj\Debug\net6.0\ref\area-de-un-circulo.dll
